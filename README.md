@@ -1,4 +1,4 @@
-# hotel-reservation-app
+# Hotel-Reservation-App
 
 I created a hotel booking application using some of the most popular and powerful libraries for React.
 
